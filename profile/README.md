@@ -8,10 +8,12 @@
 
 *We assess before we build.*
 
+<br/>
+
 [![Website](https://img.shields.io/badge/launchnex.dev-00C27C?style=for-the-badge&logoColor=white)](https://launchnex.dev)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/contact@launchnex.dev-111111?style=for-the-badge&logoColor=white)](mailto:contact@launchnex.dev)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/launchnex)&nbsp;&nbsp;
-[![Location](https://img.shields.io/badge/Hyderabad%2C%20India-555555?style=for-the-badge&logoColor=white)](https://maps.google.com/?q=Hyderabad,India)&nbsp;&nbsp;
+[![Location](https://img.shields.io/badge/Hyderabad%2C%20India-555555?style=for-the-badge&logoColor=white)](https://maps.google.com/?q=Hyderabad,India)
 
 </div>
 
@@ -23,16 +25,20 @@ Most AI projects never reach production. They die in demos, get stuck in pilot p
 
 We don't just build AI. **We take ownership of outcomes.**
 
-> 100% built from scratch, always — no recycled templates or copy-paste solutions.
-> 90 days to production — we don't disappear after launch.
-> Trusted by every client we've worked with.
-> 3x faster AI workflows — without cutting corners.
+<br/>
+
+| 100% | 90 days | 99% | 3x |
+|:---:|:---:|:---:|:---:|
+| Built from scratch, always | Days to production | Trusted by every client | Faster AI workflows |
+
+<br/>
 
 ---
 
 ## What We Build
 
 ### 🤖 AI & Generative AI
+
 From custom LLM applications and autonomous agents to RAG pipelines and workflow automation — we build production-grade AI that solves real business problems.
 
 **Capabilities:**
@@ -42,15 +48,16 @@ From custom LLM applications and autonomous agents to RAG pipelines and workflow
 - Workflow automation & intelligent process design
 - Prompt engineering & evaluation frameworks
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white)&nbsp;&nbsp;&nbsp;
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;&nbsp;&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;&nbsp;&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;&nbsp;
 
----
+<br/>
 
-### 📱 Application & Product Development
+### 🛠️ Application & Product Development
+
 Web apps, mobile apps, and AI-powered products — built with React, Next.js, and React Native. Every interface is fast, performant, and designed to scale.
 
 **Capabilities:**
@@ -60,53 +67,72 @@ Web apps, mobile apps, and AI-powered products — built with React, Next.js, an
 - API design, integration & microservices
 - UI/UX design & frontend engineering
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;&nbsp;&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;&nbsp;&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;&nbsp;
+
+<br/>
 
 ---
 
 ## Why LaunchNex
 
 | Others | LaunchNex |
-|---|---|
-| Demo-driven sales pitches | Harvest feasibility assessment first |
-| 2 months of demos or paid support before building | We assess, scope, and validate before we commit |
-| No quality specialisms | Built by senior-only engineers |
-| Vanilla things Email | Production monitoring and drift detection built in |
+|:---|:---|
+| Demo-driven sales pitches | Feasibility assessment first |
+| 2 months of demos before building | Assess, scope, and validate — then commit |
+| No quality specialisms | Senior-only engineers throughout |
+| No post-launch support | Production monitoring built in |
+
+<br/>
 
 ---
 
 ## Our Engineering Principles
 
-**Senior-Only Delivery**
+**🎯 Senior-Only Delivery**
 Every project is delivered by experienced senior engineers — no juniors learning on your budget.
 
-**Outcome Ownership**
+**📦 Outcome Ownership**
 We're accountable for outcomes, not just outputs. Your success is our success.
 
-**Business Impact First**
+**📈 Business Impact First**
 We focus on impact, not impressions. No vanity metrics, no things that look good in decks.
 
-**Secure & Compliant by Default**
+**🔒 Secure & Compliant by Default**
 Security, privacy, and compliance are built in from day one — not bolted on after launch.
 
-**Fast, Transparent, Portable**
+**⚡ Fast, Transparent, Portable**
 No long retainers, no lock-in, no surprises. You own everything we build.
+
+<br/>
 
 ---
 
 ## Built for Production. Trusted for Compliance.
 
-We embed security, accessibility, and privacy into every solution.
+We embed security, accessibility, and privacy into every solution — so you can innovate with confidence.
 
-![SOC2](https://img.shields.io/badge/SOC2-Ready-00C27C?style=flat)
-![GDPR](https://img.shields.io/badge/GDPR-Compliant-00C27C?style=flat)
-![WCAG](https://img.shields.io/badge/WCAG-Accessible-00C27C?style=flat)
-![Privacy](https://img.shields.io/badge/Privacy-By%20Design-00C27C?style=flat)
-![Security](https://img.shields.io/badge/Security-By%20Default-00C27C?style=flat)
+![SOC2](https://img.shields.io/badge/✓%20SOC2%20Ready-1E3A5F?style=for-the-badge)&nbsp;
+![GDPR](https://img.shields.io/badge/✓%20GDPR%20Compliant-2D333B?style=for-the-badge)&nbsp;
+![WCAG](https://img.shields.io/badge/✓%20WCAG%20Accessible-1E3A5F?style=for-the-badge)&nbsp;
+![Privacy](https://img.shields.io/badge/✓%20Privacy%20By%20Design-2D333B?style=for-the-badge)&nbsp;
+![Security](https://img.shields.io/badge/✓%20Security%20By%20Default-1E3A5F?style=for-the-badge)
+
+<br/>
+
+---
+
+## 🚀 Currently Building
+
+- Production AI deployment frameworks — coming soon
+- Open-source utilities for LLM engineering — coming soon
+- Independent AI-powered software products — in design
+- 🌐 [launchnex.dev](https://launchnex.dev) — live now
+
+<br/>
 
 ---
 
@@ -116,13 +142,18 @@ Whether you need an AI system built from scratch, an existing product enhanced w
 
 <div align="center">
 
+<br/>
+
 ### Ready to build something real?
 
-**[Book a Strategy Call](https://launchnex.dev)** · **[Explore Services](https://launchnex.dev/services)** · **[See Our Work](https://launchnex.dev/work)**
+**[Book a Strategy Call](https://launchnex.dev)** &nbsp;·&nbsp; **[Explore Services](https://launchnex.dev/services)** &nbsp;·&nbsp; **[See Our Work](https://launchnex.dev/work)**
+
+<br/>
 
 ---
 
 *© 2026 LaunchNex Technologies. Hyderabad, India.*
+
 *AI built for production. Not presentations.*
 
 </div>
